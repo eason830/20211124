@@ -9,7 +9,7 @@
 <br>
 <img src="https://github.com/eason830/20211124/blob/master/img/S__280928259.jpg?raw=true" width="50%">
 <br>
-### QR-CODE
+<h3> QR-CODE</h3>
 <br>
 <img src="https://github.com/eason830/20211124/blob/master/img/S__280928268.jpg?raw=true" width="50%">
 
@@ -35,17 +35,17 @@
 <br>
 <img src="https://github.com/eason830/20211124/blob/master/img/S__280928264.jpg?raw=true" width="50%">
 <hr>
-#### 小橘找民宿介紹=>基本介紹
+<h3> 小橘找民宿介紹=>基本介紹</h3>
   <img src="https://github.com/eason830/20211124/blob/master/img/S__280928263.jpg?raw=true" width="50%">
-#### 指令說明=>教學指令
+<h3>指令說明=>教學指令</h3>
   <img src="https://github.com/eason830/20211124/blob/master/img/S__280928262.jpg?raw=true" width="50%">
-#### 目前附近民宿=>教學如何搜尋附近五公里民宿
+<h3>目前附近民宿=>教學如何搜尋附近五公里民宿</h3>
   <img src="https://github.com/eason830/20211124/blob/master/img/S__280928261.jpg?raw=true" width="50%">
-#### - 隨機遊戲推薦=>隨機團康遊戲
+<h3>隨機遊戲推薦=>隨機團康遊戲</h3>
   <img src="https://github.com/eason830/20211124/blob/master/img/S__280928272.jpg?raw=true" width="50%">
-#### 小姐遊戲 GO=>小姐遊戲
+<h3> 小姐遊戲 GO=>小姐遊戲</h3>
   <img src="https://github.com/eason830/20211124/blob/master/img/S__280928270.jpg?raw=true" width="50%">
-#### 遊戲懲罰=>隨機懲罰
+<h3> 遊戲懲罰=>隨機懲罰</h3>
   <img src="https://github.com/eason830/20211124/blob/master/img/S__280928269.jpg?raw=true" width="50%">
 
 ---
