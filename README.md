@@ -6,6 +6,7 @@
 
 ## 添加機器人
 
+<img src="https://github.com/eason830/20211124/blob/master/img/S__280928259.jpg?raw=true" width="50%">
 ![image](https://github.com/eason830/20211124/blob/master/img/S__280928259.jpg?raw=true)
 
 ## QR-CODE
